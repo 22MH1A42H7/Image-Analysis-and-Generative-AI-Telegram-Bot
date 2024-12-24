@@ -1,0 +1,6 @@
+Flask==2.3.2
+pyTelegramBotAPI==4.13.0
+boto3==1.28.71
+Pillow==10.0.0
+google-generative-ai==0.4.1
+python-dotenv==1.0.0
